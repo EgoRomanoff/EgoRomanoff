@@ -1,4 +1,8 @@
-### Hi there 👋
+<h3 align="center"> Hi! I'm Egor 👋 </h3>
+<h4 align="center">Frontend-developer</h4>
+
+___
+
 
 <!--
 **EgoRomanoff/EgoRomanoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
