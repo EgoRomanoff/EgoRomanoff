@@ -9,11 +9,12 @@ ___
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<div>
-  <img src="https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif" width="16px">
+<div align="center">
+  <img src="https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif" width="20px">
   <span>&nbsp;&nbsp;<b>Hello World! I'm Egor!</b>&nbsp;&nbsp;</span>
+  <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width="25px">
 </div>
-
+<br>
 
 I have loved creativity since childhood, especially drawing.  
 Later, at university, I liked programming.  
