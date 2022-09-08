@@ -26,6 +26,10 @@ ___
 🎨 I have loved visual art since childhood, especially drawing.  
 💻 Later, at university, I liked programming.  
 ✨ And as a result - now I am a frontend-developer ✨
+    
+### 💪 Skills
+* <img src="https://user-images.githubusercontent.com/67374276/189119897-4490f0a8-56a6-4867-88e1-c480f38e3f3a.svg" height="24px">&nbsp;HTML (HTML5)
+* CSS (SASS(SCSS), TailwindCSS)
 
 <!--
 **EgoRomanoff/EgoRomanoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
