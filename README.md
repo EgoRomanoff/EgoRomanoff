@@ -11,9 +11,9 @@
   <img alt="YouTube URL" src="https://img.shields.io/twitter/url?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCru5FZQN_Xa0tKfrBqUIcng%2Ffeatured">
 </div>
 
-___
+---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360px">
 
 <div align="center">
   <h3>
