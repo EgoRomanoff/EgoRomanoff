@@ -47,6 +47,11 @@
   
 
 ## 💪 Skills
+<div>
+<img align="left" src="https://media.giphy.com/media/hUPYQchGyooEo3LwGA/giphy.gif" height="250px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
 * <img src="https://user-images.githubusercontent.com/67374276/189121602-24495555-ae90-4437-9816-69b235e393d0.svg" height="16px">&nbsp;&nbsp;JavaScript (ES6+)
 * <img src="https://user-images.githubusercontent.com/67374276/189122452-63ab17af-0be2-40bf-aec0-28e808f7d8b6.svg" height="16px">&nbsp;&nbsp;React.js
 * <img src="https://user-images.githubusercontent.com/67374276/189119897-4490f0a8-56a6-4867-88e1-c480f38e3f3a.svg" height="16px">&nbsp;&nbsp;HTML (HTML5)
