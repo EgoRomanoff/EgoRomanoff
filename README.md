@@ -6,11 +6,19 @@
 </div>
 
 ___
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <div>
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-  <p>ntrc eoigj qhqeop eo;v  oqerj owenfov weofboweto hwoeh gggggggggggggggggggggggg</p>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif" width="16px">
+  <span>&nbsp;&nbsp;<b>Hello World! I'm Egor!</b>&nbsp;&nbsp;</span>
 </div>
+
+
+I have loved creativity since childhood, especially drawing.  
+Later, at university, I liked programming.  
+And as a result - now I am a frontend-developer
+
 <!--
 **EgoRomanoff/EgoRomanoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
