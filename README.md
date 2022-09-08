@@ -1,5 +1,5 @@
 <h1 align="center"> Hi! I'm Egor 👋 </h1>
-<h4 align="center">Frontend-developer</h4>
+<h4 align="center">💻 Frontend-developer | 🎬 Videomaker</h4>
 <div align="center">
   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5&logo=vk&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fvk.com%2Fegoromanoff_off">
 </div>
