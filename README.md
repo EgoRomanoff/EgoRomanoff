@@ -7,8 +7,9 @@
 
 ___
 <div>
-  <div> ntrc eoigj qhqeop eo;v  oqerj owenfov weofboweto hwoeh gggggggggggggggggggggggg</div>
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <p>ntrc eoigj qhqeop eo;v  oqerj owenfov weofboweto hwoeh gggggggggggggggggggggggg</p>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </div>
 <!--
 **EgoRomanoff/EgoRomanoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
