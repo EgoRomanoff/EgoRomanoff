@@ -47,11 +47,14 @@
   
 
 ## 💪 Skills
-* <img src="https://user-images.githubusercontent.com/67374276/189119897-4490f0a8-56a6-4867-88e1-c480f38e3f3a.svg" height="16px">&nbsp;&nbsp;**HTML (HTML5)**
-* <img src="https://user-images.githubusercontent.com/67374276/189121100-5a76fc9d-f5f2-4a33-af20-0ff6d7229dca.svg" height="16px">&nbsp;&nbsp;**CSS (CSS3)**
-* <img src="https://user-images.githubusercontent.com/67374276/189121602-24495555-ae90-4437-9816-69b235e393d0.svg" height="16px">&nbsp;&nbsp;**JavaScript (ES6+)**
-* <img src="https://user-images.githubusercontent.com/67374276/189122452-63ab17af-0be2-40bf-aec0-28e808f7d8b6.svg" height="16px">&nbsp;&nbsp;**React.js**
-
+* <img src="https://user-images.githubusercontent.com/67374276/189121602-24495555-ae90-4437-9816-69b235e393d0.svg" height="16px">&nbsp;&nbsp;JavaScript (ES6+)
+* <img src="https://user-images.githubusercontent.com/67374276/189122452-63ab17af-0be2-40bf-aec0-28e808f7d8b6.svg" height="16px">&nbsp;&nbsp;React.js
+* <img src="https://user-images.githubusercontent.com/67374276/189119897-4490f0a8-56a6-4867-88e1-c480f38e3f3a.svg" height="16px">&nbsp;&nbsp;HTML (HTML5)
+* <img src="https://user-images.githubusercontent.com/67374276/189121100-5a76fc9d-f5f2-4a33-af20-0ff6d7229dca.svg" height="16px">&nbsp;&nbsp;CSS (CSS3)
+* <img src="https://user-images.githubusercontent.com/67374276/189132177-5e2aff67-65bc-4fd0-8ae2-ecb9997f057a.svg" height="16px">&nbsp;&nbsp;SASS (SCSS)
+* <img src="https://user-images.githubusercontent.com/67374276/189133214-0f4d9d29-d6ac-4e2a-b22c-529e608a3b3d.svg" height="16px">&nbsp;&nbsp;Tailwind CSS
+* <img src="https://user-images.githubusercontent.com/67374276/189131634-0fa2b06c-2bfb-4acb-9957-7f7aa49a2176.svg" height="16px">&nbsp;&nbsp;Git
+* <img src="https://user-images.githubusercontent.com/67374276/189135210-314c1df2-91ce-4674-a9dc-c708d532e7da.svg" height="16px">&nbsp;&nbsp;BEM
 
 <!--
 **EgoRomanoff/EgoRomanoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
