@@ -36,13 +36,13 @@
     
 *I'm in my free time from frontend:*
 <ul>
-  <li>watching (or playing) footbal ⚽</li>
+  <li>dancing (it's my main hobby) 🏃</li>
   <li>
     speaker and video maker of&nbsp;
     <img src="https://user-images.githubusercontent.com/67374276/189124104-11382fec-59c8-43c8-93ef-faaa41125d3f.png" height="14px">
     <a href="https://www.youtube.com/channel/UCru5FZQN_Xa0tKfrBqUIcng">PyLounge</a>
   </li>
-  <li>dancing (it's my main hobby) 🏃</li>
+  <li>watching (or playing) footbal ⚽</li>
 </ul>
   
 
